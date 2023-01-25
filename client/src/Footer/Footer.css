@@ -1,0 +1,20 @@
+.footer{
+    display: flex;
+    background-color: #4a4a55;
+    color: #fff;
+    height: 180px;
+    padding-top: 40px;
+
+}
+.footer-logo{
+  width: 100px;
+ padding-top: 15px;   
+    
+}
+.footer-logo  .icons {
+    margin-left: 8px ;
+    
+    padding-top: 20px;
+    display: inline-block;
+    
+}
